@@ -6,4 +6,4 @@ pkg install git
 git clone https://github.com/janucreates4u/Shoaib.git
 ls
 cd Shoaib
-python Shoaib.py
+python Jani.py
